@@ -44,10 +44,6 @@
     "prettier:check": "prettier --check .",
     "prettier:write": "prettier --write ."
   },
-  "peerDependencies": {
-    "ink": ">4",
-    "react": ">17"
-  },
   "dependencies": {
     "ink-select-input": "^5.0.0",
     "ink-text-input": "^5.0.1"
